@@ -1,4 +1,4 @@
-# Go & Redis URL Shortener
+# URL Shortener
 
 A high-performance, containerized URL shortener built with Go, Fiber, and Redis. This project provides a simple and efficient REST API to create short links and redirect users to the original URL.
 
